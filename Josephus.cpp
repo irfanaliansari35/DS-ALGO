@@ -1,3 +1,10 @@
+//Coding Solution For MAR
+//Name: Irfan Ali Ansari
+//University Roll No. : 16900219038
+//Department : Information Technology
+//Year : 2nd (4th sem)
+
+
 #include<bits/stdc++.h>
 using namespace std;
 void solve(vector<int>v,int index,int k,int &ans)
