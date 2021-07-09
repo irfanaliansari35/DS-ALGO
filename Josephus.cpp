@@ -4,6 +4,7 @@
 //Department : Information Technology
 //Year : 2nd (4th sem)
 
+//Problem :- Josephus
 
 #include<bits/stdc++.h>
 using namespace std;
